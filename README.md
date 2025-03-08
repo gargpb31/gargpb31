@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 - 🔥 Solved **1000+ DSA problems** and built multiple **web development projects**  
 - 🌱 Currently sharpening my **CP** skills  
 
-📌 **Projects:**  
-- **Codezeck** - A coding platform offering courses like DSA, Data Science, AI/ML, and a real-time code editor  
-- **Campus OLX** - A marketplace for students  
-- **Plygon Area Calculator** - A user-friendly applet to calculate area of 3 or 4 sided polygon by dragging & dropping its vertex points to change the polygon's shape. 
-
 📫 **How to reach me:**  
 - ✉️ Email: sunnygarg887@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gargpb31/)  
