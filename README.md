@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 📫 **How to reach me:**  
 - ✉️ Email: sunnygarg887@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gargpb31/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gargpb31/)
+- Personal Portfolio : https://portfolio-sunny-gargs-projects.vercel.app/
 
 ⚡ **Fun Fact:**  
 Did you know? Competitive Programming is Like Chess for Coders⏳🔥  
