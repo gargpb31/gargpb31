@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 - 🌱 Currently sharpening my **CP** skills  
 
 📫 **How to reach me:**  
-- ✉️ Email: sunnygarg887@gmail.com  
+- ✉️ Email: sunnygarg887@gmail.com
+- ✉️ Email: dev.sunny995@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gargpb31/)
-- Personal Portfolio : https://portfolio-sunny-gargs-projects.vercel.app/
+- 🔗 [Portfolio](https://portfolio-sunny-gargs-projects.vercel.app/)
+
 
 ⚡ **Fun Fact:**  
 Did you know? Competitive Programming is Like Chess for Coders⏳🔥  
